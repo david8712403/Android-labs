@@ -2,7 +2,7 @@
     <string name="app_name">MoraApp</string>
 
     <string name="et_hint">請輸入玩家姓名</string>
-    <string name="play_hint">請輸入姓名已開始遊戲</string>
+    <string name="play_hint">請輸入姓名以開始遊戲</string>
 
     <string name="scissor">剪刀</string>
     <string name="stone">石頭</string>
@@ -13,5 +13,10 @@
     <string name="winner">勝利者</string>
     <string name="mmora">我方出拳</string>
     <string name="cmora">電腦出拳</string>
+
+    <string name="result_win">恭喜你獲勝了！</string>
+    <string name="result_loss">可惜，電腦獲勝了！</string>
+    <string name="result_draw">平局，請再試一次！</string>
+    <string name="draw">平局</string>
 
 </resources>
