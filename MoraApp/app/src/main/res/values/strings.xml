@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MoraApp</string>
+
+    <string name="et_hint">請輸入玩家姓名</string>
+    <string name="play_hint">請輸入姓名已開始遊戲</string>
+
+    <string name="scissor">剪刀</string>
+    <string name="stone">石頭</string>
+    <string name="paper">布</string>
+    <string name="mora">猜拳</string>
+
+    <string name="name">名字</string>
+    <string name="winner">勝利者</string>
+    <string name="mmora">我方出拳</string>
+    <string name="cmora">電腦出拳</string>
+
+</resources>
