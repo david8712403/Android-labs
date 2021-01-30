@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OrderApp</string>
+
+    <string name="drink">飲料</string>
+    <string name="sugar">甜度</string>
+    <string name="ice">冰塊</string>
+
+</resources>
