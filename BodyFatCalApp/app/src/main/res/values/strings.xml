@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BodyFatCalApp</string>
+    
+    <string name="std_weight">STD Weight</string>
+    <string name="body_fat">Body Fat</string>
+    <string name="bmi">BMI</string>
+</resources>
