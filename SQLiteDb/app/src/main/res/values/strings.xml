@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SQLiteDb</string>
+    <string name="book">book</string>
+    <string name="price">price</string>
+    <string name="add">add</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="search">search</string>
+</resources>
